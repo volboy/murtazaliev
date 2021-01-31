@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LabTinkoff</string>
+    <string name="btnLoadStr">Load</string>
+    <string name="tab_text_1">latest</string>
+    <string name="tab_text_2">hot</string>
+    <string name="tab_text_3">top</string>
+</resources>
